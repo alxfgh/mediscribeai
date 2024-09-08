@@ -1,8 +1,8 @@
 ---
-title: Folder
+title: Use Cases
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/UseCases/leaf
 sidebar:
   open: true
 ---

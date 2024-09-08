@@ -1,10 +1,11 @@
 ---
-title: My Site
+title: MediScribe
 toc: false
 ---
 
-This is the landing page.
+# 
 
+Welcome to Mediscribe
 ## Explore
 
 {{< cards >}}
