@@ -42,7 +42,20 @@ menu:
       params:
         icon: x-twitter
 
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2
+
 params:
+  theme:
+    default: light
+    displayToggle: true
+
   navbar:
     displayTitle: true
     displayLogo: true

@@ -1,5 +1,5 @@
 ---
-title: Web App FAQ
+title: Extension FAQ
 type: docs
 prev: /
 next: docs/UseCases/
